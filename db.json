@@ -1,0 +1,194 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Nam"
+    },
+    {
+      "id": 2,
+      "name": "Nữ"
+    }
+  ],
+  "product": [
+    {
+      "name": "T-Shirt while",
+      "categoryId": "2",
+      "image": "../back-end/images/product-01.jpg",
+      "price": 1000,
+      "sale": 100,
+      "detail": "When you start designing the first mockup of your website, a landing page, or an ad copy, you might need to add some placeholder text to get an overall look and feel of your design. Right?  Placeholder text helps outline the visual elements of your design. The requirements change per your design – at times you may just need a line of text, and in some cases, you will need loads of paragraphs. But, where do you get these so-called ‘placeholder text’.",
+      "quantity": "100",
+      "id": 1
+    },
+    {
+      "name": "Women's shirts",
+      "categoryId": "2",
+      "image": "../back-end/images/product-02.jpg",
+      "price": 2000,
+      "sale": 200,
+      "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "quantity": "200",
+      "id": 2
+    },
+    {
+      "name": "Men's shirts 01",
+      "categoryId": "1",
+      "image": "../back-end/images/product-03.jpg",
+      "price": 1800,
+      "sale": 100,
+      "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "quantity": "50",
+      "id": 3
+    },
+    {
+      "name": "winter coat",
+      "categoryId": "2",
+      "image": "../back-end/images/product-04.jpg",
+      "price": 2100,
+      "sale": 0,
+      "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "quantity": "50",
+      "id": 4
+    },
+    {
+      "name": "Skirt",
+      "categoryId": "2",
+      "image": "../back-end/images/product-05.jpg",
+      "price": 900,
+      "sale": 50,
+      "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "quantity": "50",
+      "id": 5
+    },
+    {
+      "name": "Spring coat",
+      "categoryId": "2",
+      "image": "../back-end/images/product-07.jpg",
+      "price": 1900,
+      "sale": 100,
+      "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "quantity": "50",
+      "id": 7
+    },
+    {
+      "name": "Men's shirts 02",
+      "categoryId": "1",
+      "image": "../back-end/images/product-03.jpg",
+      "price": 1200,
+      "sale": 0,
+      "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "quantity": "50",
+      "id": 8
+    },
+    {
+      "name": "Crosstop woment",
+      "categoryId": "2",
+      "image": "../back-end/images/product-10.jpg",
+      "price": 5000,
+      "sale": 100,
+      "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "quantity": "50",
+      "id": 9
+    },
+    {
+      "name": "Boss uniform",
+      "categoryId": "1",
+      "image": "../back-end/images/product-11.jpg",
+      "price": 2000,
+      "sale": 100,
+      "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum",
+      "quantity": "12",
+      "id": 10
+    },
+    {
+      "name": "Crosstop",
+      "categoryId": "2",
+      "image": "../back-end/images/product-14.jpg",
+      "price": 720,
+      "sale": 0,
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "quantity": "12",
+      "id": 12
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "Coza Shop",
+      "logo": "../back-end/images/img.jpg",
+      "address": "68 Đường Cầu Giấy - Hà Nội-VN",
+      "email": "coza@gmail.comm",
+      "hotline": "0963852464"
+    }
+  ],
+  "email": [
+    {
+      "yourEmail": "anhnhph07174@fpt.edu.vn",
+      "content": "content",
+      "id": 1
+    },
+    {
+      "yourEmail": "agisteen@gmail.com",
+      "content": "help",
+      "id": 2
+    },
+    {
+      "yourEmail": "Khuongduy@fpt.edu.vn",
+      "content": "good",
+      "id": 3
+    },
+    {
+      "yourEmail": "anhnhph07174@fpt.edu.vn",
+      "content": "",
+      "id": 5
+    },
+    {
+      "yourEmail": "Vinh@gmail.com",
+      "content": "great",
+      "id": 6
+    }
+  ],
+  "post": [
+    {
+      "title": "MY SPRING STYLE INSPO",
+      "content": "I think it’s safe to say spring has sprung! Flowers are starting to bloom, the weather is warmer, and everything is starting to come back to life (including me)! Even though life isn’t back to normal yet, it’s amazing what a difference a little bit of sunshine can make. It’s gotten me excited for some new spring looks and I’m craving all things comfortable and casual this season. (Love that loungewear is taking over streetstyle!) Here are a few of my favorite looks around Pinterest right now.\nJewelry completely transforms even the coziest looking loungewear. Just add a few layered pieces to take a ‘woke up like this’ look to an effortlessly but intentionally undone ensemble that feels put together.Such simple pieces can tie in a casual black tee like this link chain, and malachite necklace. I love this coin pendant to layer and some rings like this ridge ring, this infinity ring, and this cute bond ring.",
+      "image": "../back-end/images/blog-02.jpg",
+      "date": "2020-02-02",
+      "id": 1
+    },
+    {
+      "title": "HOW TO STYLE: CASUAL SUITS",
+      "content": "Comfort meets sophisticated with the new suit and I’m all for it. You can’t deny that comfort is cool and with casual suits hitting the runway from all the best designers – from The Row to Oscar de la Renta – all styled with a fresh new spin. We’re seeming them styled with sporty sneakers and eye-catching jewelry to completely transform them from an office-only look to something we could take to the streets. This season we are seeing such an amazing variety, from colorful options, lighter linen fabrics, and my personal favorite: the shorts suit making a new debut.\n\nHere are 3 different casual suiting trends and how to style them, from sporty to sophisticated:\nThe colorful casual suits options right now are endless. Obsessed with this gorgeous rose suit! To bring a more casual vibe, add a cropped ribbed tee (love this one under $20 – need it in every color!) and some spring sneakers. This is a pretty paler pink option and also love this green blazer and shorts set.",
+      "image": "../back-end/images/blog-01.jpg",
+      "date": "2020-04-30",
+      "id": 2
+    },
+    {
+      "title": "HOW TO STYLE: ELEVATED ATHLEISURE",
+      "content": "It’s no surprise that comfort is trending right now, but sportswear isn’t just for the gym or lazy mornings. One of my favorite trends right now is elevated athleisure – going from sneakers and streetstyle to blazers and business meetings. Below are a few ways to transition your athleisure pieces for multiple occasions.\nSTREET STYLE LOOK: TRACK PANTS (ALSO LOVE THESE) | CROPPED HOODIE (SIMILAR HERE) | SUNGLASSES (UNDER $100) | CARGO UTILTY JACKET (UNDER $50) | TOTE | GOLD EARRINGS | SNEAKERS (UNDER $100)\n\nOFFICE LOOK: TRACK PANTS | ONE SLEEVE TANK (ON SALE UNDER $10 – COMES IN MULTIPLE COLORS) | SUNGLASSES (UNDER $50) | CAMEL BLAZER (ON SALE UNDER $50)| LIPSTICK | BRACELET | WOVEN TOTE (ON SALE UNDER $50) | SANDALS\n\nThe starting point for making the transition from daytime to desk job? A good pair of track pants. This is another great pair and love the color scheme on this pair (under $50). Track pants pair perfectly with a white sneaker and a cropped hoodie – just add a utility jacket for an extra layer to bring in some more detail (love this one). To make your track pants work for the office, swap out the sneakers for some pretty sandals. You can also add a fitted bodysuit layered under an oversized blazer. (Would also love this look with an oversized button up for an effortless but professional feel!)",
+      "image": "../back-end/images/blog-03.jpg",
+      "date": "2020-05-01",
+      "id": 3
+    }
+  ],
+  "slider": [
+    {
+      "title": "Spring Fashion",
+      "content": "New Trends 2020",
+      "image": "../back-end/images/slide-01.jpg",
+      "id": 1
+    },
+    {
+      "title": "Summer Fashion",
+      "content": "New Sea Fashion",
+      "image": "../back-end/images/slide-02.jpg",
+      "id": 2
+    },
+    {
+      "title": "Fall Fashion",
+      "content": "Casual Suits",
+      "image": "../back-end/images/slide-03.jpg",
+      "id": 3
+    }
+  ]
+}
